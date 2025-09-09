@@ -3,6 +3,8 @@
 
 Welcome to **EcoThreads**, an eco-friendly online platform where users can **buy, sell, or donate pre-loved clothing**. We aim to promote **sustainable fashion** by connecting buyers and sellers while ensuring a seamless, user-friendly experience.
 
+[![View EcoThreads Prototype](https://img.shields.io/badge/View_EcoThreads_Prototype-FF4081?style=for-the-badge&logo=figma&logoColor=white)](https://curved-detail-70419029.figma.site/)
+
 ---
 
 ## 🌟 Features
